@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our project is a web application for upscaling low resolution images using the latest AI super resolution methods. Our app will allow users to upload an image and within a matter of seconds, download a clearer, more detailed version of it. Users may register an account to access all of their processed images from the website.
+
 ### Features
-Include Features here
+User account creation and login authentication
+Ability for users to upload images
+Upscale low resolution images into high resolution images
+Save upscaled images in database
+Ability for users to view upscaled images
+
 ### Technologies
-Include Technologies here
+Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates, RealEsrgan, Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to best store images in database
+Uploading and downloading images
+How to utilize super resolution tools in Java
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/aW2bM4ts/liftoff-project
